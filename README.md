@@ -92,4 +92,4 @@ Databases
 
 * GeoCouch - https://github.com/couchbase/geocouch
 
-* Riak - http://wiki.basho.com/
+* Riak - http://www.basho.com/
